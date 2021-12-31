@@ -1,0 +1,10 @@
+<IfModule mod_rewrite.c>
+Options +FollowSymLinks
+RewriteEngine on
+RewriteRule ^.*-Item-.(\d+)/.*.php$ coreq/index\.php?id=$1&%{QUERY_STRING} [L]
+RewriteRule ^detail-(.*).php$ coreq/index\.php?cat=$1&%{QUERY_STRING} [L]
+RewriteRule ^.*([a-z]+blogsmap\.xml)$  blogmap/$1 [L]
+RewriteRule ^.*(blogsmap\.xml)$  blogmap/$1 [L]
+
+RewriteBase /
+</IfModule>

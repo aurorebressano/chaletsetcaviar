@@ -1,0 +1,161 @@
+# Translation of Themes - Fashion Icon in Italian
+# This file is distributed under the same license as the Themes - Fashion Icon package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-09-27 17:55:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: it\n"
+"Project-Id-Version: Themes - Fashion Icon\n"
+
+#. Description of the theme
+msgid "Fashion Icon is a child theme of Blossom Fashion for fashion enthusiasts. The theme is built for creating an attractive blogging website for personal or professional use. The theme focuses on making your blog outstanding among users and search engines with responsive design, speed optimized code, and SEO friendly markup. The theme can be used to create fashion, lifestyle, beauty, makeup, gossip, food, or a journal blog without writing a single line of code. If you are looking for an impressive and UX optimized design for making money online, Fashion Icon Free WordPress theme might be the right choice. The theme features advanced, easy-to-use feature that allows you to create a blog as a DIY project-- without hiring a developer. The theme is Schema.org ready and rocks features of a premium theme. The theme is social media ready. You can flaunt your Instagram profile on the home page. The theme also has built-in options to integrate Facebook, Snapchat, Twitter, Instagram, Pinterest, and other major social platforms. Fashion Icon comes with 20 custom widgets that help you increase the functionality of website all by yourself. The theme is also highly customizable. You can quickly change color, fonts, and layouts. Fashion Icon is fully compatible with the WooCommerce plugin -- you can create your online shop with the theme. On top of that, you can maximize the revenue from your blog with advertisement widget. The theme is translation ready and supports RTL scripts also. If you run into any problem or need guidance, Fashion Icon is backed with extensive documentation and friendly, human support. Check demo: https://blossomthemes.com/theme-demo/?theme=fashion-icon, read documentation: https://docs.blossomthemes.com/docs/fashion-icon/ and get support: https://blossomthemes.com/support-ticket/."
+msgstr ""
+"Fashion Icon è un tema child di Blossom Fashion, adatto agli appassionati di moda. Il tema è pensato per realizzare un blog o un sito web accattivante, per uso personale o professionale. È studiato per interagire al meglio sia con gli utenti fisici sia con i motori di ricerca, grazie a un design reattivo, al codice ottimizzato per la velocità e l'orientamento alla SEO Markup. Il tema può essere utilizzato per blog di moda, stile di vita, bellezza, trucco, gossip, cibo o per realizzare un journal blog, senza scrivere una singola riga di codice. Se stai cercando un design di effetto e ottimizzato UX per guadagnare online, il tema WordPress gratuito Fashion Icon potrebbe essere la scelta giusta. Il tema presenta funzionalità avanzate e facili da usare, che ti consentiranno di creare un blog fai-da-te, senza dover assumere uno sviluppatore. Il tema è pronto per Schema.org, presenta le caratteristiche di un tema Premium, ed è pronto per i social media. Puoi inserire il tuo profilo Instagram sulla home page e ci sono delle opzioni integrate per Facebook, Snapchat, Twitter, Instagram, Pinterest e gli altri principali social network. Fashion Icon include 20 widget personalizzati, per migliorare la funzionalità del sito web.\n"
+"Questo tema è anche fortemente personalizzabile. Puoi cambiare rapidamente colore, carattere e layout. Fashion Icon è completamente compatibile con il plugin WooCommerce: puoi creare il tuo negozio online con il tema. Inoltre, puoi massimizzare le entrate del tuo blog con il widget pubblicitario. Il tema è pronto per la traduzione e supporta anche gli script RTL. Se riscontri problemi o hai bisogno di assistenza, Fashion Icon dispone di un'ampia documentazione e un team di assistenza rapido e pronto ad aiutarti. Guarda la demo: https://blossomthemes.com/theme-demo/?theme=fashion-icon, leggi la documentazione: https://docs.blossomthemes.com/docs/fashion-icon/ e chiedi assistenza: https://blossomthemes.com/support-ticket/."
+
+#. Theme Name of the theme
+msgid "Fashion Icon"
+msgstr "Fashion Icon"
+
+#: functions.php:496
+msgid "Mobile"
+msgstr "Dispositivi mobili"
+
+#: functions.php:486
+msgid "primary menu toggle"
+msgstr "Commutazione del menu principale"
+
+#: functions.php:971
+msgid " Fashion Icon | Developed By "
+msgstr "Fashion Icon | Sviluppato da"
+
+#: functions.php:973
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: functions.php:973
+msgid " Powered by %s"
+msgstr " Powered by %s"
+
+#: functions.php:598
+msgctxt "Site Title Font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:597
+msgctxt "Secondary Font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:596
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:342
+msgid "This is the home page layouts for your blog."
+msgstr "Questo è il layout della home page del tuo blog."
+
+#: functions.php:341
+msgid "Home Page Layouts"
+msgstr "Layout della home page"
+
+#: functions.php:320
+msgid "Home Page Layout"
+msgstr "Layout della home page"
+
+#: functions.php:307
+msgid "This is the header layouts for your blog."
+msgstr "Questo è il layout dell'header del tuo blog."
+
+#: functions.php:306
+msgid "Header Layouts"
+msgstr "Layout dell'header"
+
+#: functions.php:285
+msgid "Header Layout"
+msgstr "Layout dell'header"
+
+#: functions.php:265
+msgid "Primary color of the theme."
+msgstr "Colore principale del tema."
+
+#: functions.php:264
+msgid "Primary Color"
+msgstr "Colore principale"
+
+#: functions.php:241
+msgid "Change the font size of your site."
+msgstr "Cambia la dimensione del font del tuo sito web."
+
+#: functions.php:240
+msgid "Font Size"
+msgstr "Dimensione del font"
+
+#: functions.php:218
+msgid "Secondary font of the site."
+msgstr "Font secondario del sito web."
+
+#: functions.php:217
+msgid "Secondary Font"
+msgstr "Font secondario"
+
+#: functions.php:196
+msgid "Primary font of the site."
+msgstr "Font principale del sito web."
+
+#: functions.php:195
+msgid "Primary Font"
+msgstr "Font principale"
+
+#: functions.php:175
+msgid "Typography"
+msgstr "Carattere"
+
+#: functions.php:160
+msgid "Change the font size of your site title."
+msgstr "Cambia la dimensione del font del titolo del tuo sito web."
+
+#: functions.php:159
+msgid "Site Title Font Size"
+msgstr "Dimensione del font del titolo del sito web"
+
+#: functions.php:137
+msgid "Site title and tagline font."
+msgstr "Font del titolo del sito web e del motto."
+
+#: functions.php:136
+msgid "Site Title Font"
+msgstr "Font del titolo del sito web"
+
+#: functions.php:107
+msgid "%1$sDocumentation Link:%2$s %3$sClick here.%4$s"
+msgstr "%1$sLink alla documentazione:%2$s %3$sFai clic qui.%4$s"
+
+#: functions.php:105
+msgid "%1$sDemo Link:%2$s %3$sClick here.%4$s"
+msgstr "%1$sLink alla demo:%2$s %3$sFai clic qui.%4$s"
+
+#: functions.php:90
+msgid "Demo & Documentation"
+msgstr "Demo e documentazione"
+
+#. Author URI of the theme
+msgid "https://blossomthemes.com/"
+msgstr "https://blossomthemes.com/"
+
+#. Author of the theme
+#: functions.php:972
+msgid "Blossom Themes"
+msgstr "Blossom Themes"
+
+#. Theme URI of the theme
+msgid "https://blossomthemes.com/downloads/fashion-icon-free-wordpress-theme"
+msgstr "https://blossomthemes.com/downloads/fashion-icon-free-wordpress-theme"
